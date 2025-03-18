@@ -1,14 +1,15 @@
 # SecretFriend_Alura
 Challenge Amigo Secreto Grupo G8 por Luis Piña
-🎯 Quiz Aleatorio
 
-📌 Descripción
+# 🎯 Quiz Aleatorio
 
-Este es un juego de preguntas y respuestas donde el usuario agrega nombres a una lista y luego debe adivinar el nombre seleccionado aleatoriamente.
+# 📌 Descripción
 
-✅ Agrega nombres a la lista.🎲 Inicia el juego y se seleccionará un nombre aleatorio.🤔 Intenta adivinar el nombre dentro del número de intentos permitidos.
+Este es un juego de preguntas y respuestas donde el usuario agrega nombres a una lista y despues un nombre sera seleccionado aleatoriamente.
 
-🛠️ Tecnologías Utilizadas
+✅ Agrega nombres a la lista.🎲 Inicia el juego y se seleccionará un nombre aleatorio.🤔 
+
+# 🛠️ Tecnologías Utilizadas
 
 🌐 HTML - Estructura del juego.
 
@@ -16,7 +17,7 @@ Este es un juego de preguntas y respuestas donde el usuario agrega nombres a una
 
 ⚡ JavaScript - Lógica del juego y selección aleatoria.
 
-🚀 Cómo Ejecutarlo
+# 🚀 Cómo Ejecutarlo
 
 📥 Clona este repositorio:
 
@@ -32,11 +33,12 @@ cd quiz-aleatorio
 
 🖼️ Pronto se agregarán imágenes del proyecto.
 
-📌 Funcionalidades
+# 📌 Funcionalidades
 
-✅ Agregar nombres a una lista.🎲 Selección aleatoria de un nombre.⏳ Número limitado de intentos para adivinar.🎉 Mensaje de victoria o derrota según el resultado.
+✅ Agregar nombres a una lista.
+🎲 Selección aleatoria de un nombre.
 
-🤝 Contribuciones
+# 🤝 Contribuciones
 
 ¡Las contribuciones son bienvenidas! 🎉
 Si quieres mejorar el proyecto:
@@ -49,6 +51,6 @@ Si quieres mejorar el proyecto:
 
 🚀 Envía un pull request.
 
-📄 Licencia
+# 📄 Licencia
 
 Este proyecto está bajo la licencia MIT 📜. ¡Siéntete libre de usarlo y mejorarlo! 😊
